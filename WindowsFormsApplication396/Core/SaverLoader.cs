@@ -11,6 +11,7 @@ namespace WindowsFormsApplication396.Core
     /// <summary>
     /// Сохранение и чтение объектов в/из файла
     /// </summary>
+    /// 
     public class SaverLoader
     {
         /// <summary>
